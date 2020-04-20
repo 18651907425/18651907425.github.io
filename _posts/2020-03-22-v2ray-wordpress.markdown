@@ -17,7 +17,7 @@ tags:
 ### 域名设置：
 
 #### 购买VPS
-- **1. 购买云服务器**
+- **1. 购买云服务器**22222222222test
 
 国内的推荐[腾讯云](https://cloud.tencent.com/redirect.php?redirect=1005&cps_key=42c9b322fd48ff0ce405a0c7d78612fd)，毕竟大公司，工单服务贼及时！还送免费的CDN加速流量~
 国外的Vultr还不错，全球15个机房中心，采用小时计费策略，需要国外服务器的也可以尝试下~[Vultr购买图解步骤](https://www.flyzy2005.cn/vps/vultr-deploy)
